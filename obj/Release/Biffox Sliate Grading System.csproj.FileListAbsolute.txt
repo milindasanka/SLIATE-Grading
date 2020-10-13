@@ -1,0 +1,28 @@
+E:\BiFox Technolagyis\New folder\Biffox Sliate Grading System\Biffox Sliate Grading System\bin\Release\Biffox Sliate Grading System.exe.config
+E:\BiFox Technolagyis\New folder\Biffox Sliate Grading System\Biffox Sliate Grading System\bin\Release\Biffox Sliate Grading System.exe
+E:\BiFox Technolagyis\New folder\Biffox Sliate Grading System\Biffox Sliate Grading System\bin\Release\Biffox Sliate Grading System.pdb
+E:\BiFox Technolagyis\New folder\Biffox Sliate Grading System\Biffox Sliate Grading System\obj\Release\Biffox_Sliate_Grading_System.calc.resources
+E:\BiFox Technolagyis\New folder\Biffox Sliate Grading System\Biffox Sliate Grading System\obj\Release\Biffox_Sliate_Grading_System.Form1.resources
+E:\BiFox Technolagyis\New folder\Biffox Sliate Grading System\Biffox Sliate Grading System\obj\Release\Biffox_Sliate_Grading_System.frda.resources
+E:\BiFox Technolagyis\New folder\Biffox Sliate Grading System\Biffox Sliate Grading System\obj\Release\Biffox_Sliate_Grading_System.Frdm.resources
+E:\BiFox Technolagyis\New folder\Biffox Sliate Grading System\Biffox Sliate Grading System\obj\Release\Biffox_Sliate_Grading_System.frHnden.resources
+E:\BiFox Technolagyis\New folder\Biffox Sliate Grading System\Biffox Sliate Grading System\obj\Release\Biffox_Sliate_Grading_System.hndit.resources
+E:\BiFox Technolagyis\New folder\Biffox Sliate Grading System\Biffox Sliate Grading System\obj\Release\Biffox_Sliate_Grading_System.Frthm.resources
+E:\BiFox Technolagyis\New folder\Biffox Sliate Grading System\Biffox Sliate Grading System\obj\Release\Biffox_Sliate_Grading_System.Properties.Resources.resources
+E:\BiFox Technolagyis\New folder\Biffox Sliate Grading System\Biffox Sliate Grading System\obj\Release\Biffox Sliate Grading System.csproj.GenerateResource.Cache
+E:\BiFox Technolagyis\New folder\Biffox Sliate Grading System\Biffox Sliate Grading System\obj\Release\Biffox Sliate Grading System.exe
+E:\BiFox Technolagyis\New folder\Biffox Sliate Grading System\Biffox Sliate Grading System\obj\Release\Biffox Sliate Grading System.pdb
+D:\BiFox Technolagyis\New folder\Biffox Sliate Grading System\Biffox Sliate Grading System\bin\Release\Biffox Sliate Grading System.exe.config
+D:\BiFox Technolagyis\New folder\Biffox Sliate Grading System\Biffox Sliate Grading System\obj\Release\Biffox Sliate Grading System.exe
+D:\BiFox Technolagyis\New folder\Biffox Sliate Grading System\Biffox Sliate Grading System\obj\Release\Biffox Sliate Grading System.pdb
+D:\BiFox Technolagyis\New folder\Biffox Sliate Grading System\Biffox Sliate Grading System\bin\Release\Biffox Sliate Grading System.exe
+D:\BiFox Technolagyis\New folder\Biffox Sliate Grading System\Biffox Sliate Grading System\bin\Release\Biffox Sliate Grading System.pdb
+D:\BiFox Technolagyis\New folder\Biffox Sliate Grading System\Biffox Sliate Grading System\obj\Release\Biffox_Sliate_Grading_System.calc.resources
+D:\BiFox Technolagyis\New folder\Biffox Sliate Grading System\Biffox Sliate Grading System\obj\Release\Biffox_Sliate_Grading_System.Form1.resources
+D:\BiFox Technolagyis\New folder\Biffox Sliate Grading System\Biffox Sliate Grading System\obj\Release\Biffox_Sliate_Grading_System.frda.resources
+D:\BiFox Technolagyis\New folder\Biffox Sliate Grading System\Biffox Sliate Grading System\obj\Release\Biffox_Sliate_Grading_System.Frdm.resources
+D:\BiFox Technolagyis\New folder\Biffox Sliate Grading System\Biffox Sliate Grading System\obj\Release\Biffox_Sliate_Grading_System.frHnden.resources
+D:\BiFox Technolagyis\New folder\Biffox Sliate Grading System\Biffox Sliate Grading System\obj\Release\Biffox_Sliate_Grading_System.hndit.resources
+D:\BiFox Technolagyis\New folder\Biffox Sliate Grading System\Biffox Sliate Grading System\obj\Release\Biffox_Sliate_Grading_System.Frthm.resources
+D:\BiFox Technolagyis\New folder\Biffox Sliate Grading System\Biffox Sliate Grading System\obj\Release\Biffox_Sliate_Grading_System.Properties.Resources.resources
+D:\BiFox Technolagyis\New folder\Biffox Sliate Grading System\Biffox Sliate Grading System\obj\Release\Biffox Sliate Grading System.csproj.GenerateResource.Cache

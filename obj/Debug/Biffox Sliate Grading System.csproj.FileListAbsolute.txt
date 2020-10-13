@@ -1,0 +1,15 @@
+E:\BiFox Technolagyis\New folder\Biffox Sliate Grading System\Biffox Sliate Grading System\bin\Debug\Biffox Sliate Grading System.exe.config
+E:\BiFox Technolagyis\New folder\Biffox Sliate Grading System\Biffox Sliate Grading System\bin\Debug\Biffox Sliate Grading System.exe
+E:\BiFox Technolagyis\New folder\Biffox Sliate Grading System\Biffox Sliate Grading System\bin\Debug\Biffox Sliate Grading System.pdb
+E:\BiFox Technolagyis\New folder\Biffox Sliate Grading System\Biffox Sliate Grading System\obj\Debug\Biffox Sliate Grading System.csprojResolveAssemblyReference.cache
+E:\BiFox Technolagyis\New folder\Biffox Sliate Grading System\Biffox Sliate Grading System\obj\Debug\Biffox_Sliate_Grading_System.Form1.resources
+E:\BiFox Technolagyis\New folder\Biffox Sliate Grading System\Biffox Sliate Grading System\obj\Debug\Biffox_Sliate_Grading_System.Properties.Resources.resources
+E:\BiFox Technolagyis\New folder\Biffox Sliate Grading System\Biffox Sliate Grading System\obj\Debug\Biffox Sliate Grading System.csproj.GenerateResource.Cache
+E:\BiFox Technolagyis\New folder\Biffox Sliate Grading System\Biffox Sliate Grading System\obj\Debug\Biffox Sliate Grading System.exe
+E:\BiFox Technolagyis\New folder\Biffox Sliate Grading System\Biffox Sliate Grading System\obj\Debug\Biffox Sliate Grading System.pdb
+E:\BiFox Technolagyis\New folder\Biffox Sliate Grading System\Biffox Sliate Grading System\obj\Debug\Biffox_Sliate_Grading_System.hndit.resources
+E:\BiFox Technolagyis\New folder\Biffox Sliate Grading System\Biffox Sliate Grading System\obj\Debug\Biffox_Sliate_Grading_System.calc.resources
+E:\BiFox Technolagyis\New folder\Biffox Sliate Grading System\Biffox Sliate Grading System\obj\Debug\Biffox_Sliate_Grading_System.frda.resources
+E:\BiFox Technolagyis\New folder\Biffox Sliate Grading System\Biffox Sliate Grading System\obj\Debug\Biffox_Sliate_Grading_System.Frdm.resources
+E:\BiFox Technolagyis\New folder\Biffox Sliate Grading System\Biffox Sliate Grading System\obj\Debug\Biffox_Sliate_Grading_System.Frthm.resources
+E:\BiFox Technolagyis\New folder\Biffox Sliate Grading System\Biffox Sliate Grading System\obj\Debug\Biffox_Sliate_Grading_System.frHnden.resources
